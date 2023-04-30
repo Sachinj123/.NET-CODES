@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\bin\Debug\8DemoStackCollection.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\bin\Debug\8DemoStackCollection.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\bin\Debug\8DemoStackCollection.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\obj\Debug\8DemoStackCollection.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\obj\Debug\8DemoStackCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\obj\Debug\8DemoStackCollection.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\obj\Debug\8DemoStackCollection.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\8DemoStackCollection\obj\Debug\8DemoStackCollection.pdb

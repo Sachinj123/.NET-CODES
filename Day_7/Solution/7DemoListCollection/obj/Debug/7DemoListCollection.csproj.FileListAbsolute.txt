@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\bin\Debug\7DemoListCollection.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\bin\Debug\7DemoListCollection.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\bin\Debug\7DemoListCollection.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\obj\Debug\7DemoListCollection.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\obj\Debug\7DemoListCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\obj\Debug\7DemoListCollection.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\obj\Debug\7DemoListCollection.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\7DemoListCollection\obj\Debug\7DemoListCollection.pdb

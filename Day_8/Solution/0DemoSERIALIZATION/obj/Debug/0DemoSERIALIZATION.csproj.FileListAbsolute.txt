@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\bin\Debug\0DemoSERIALIZATION.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\bin\Debug\0DemoSERIALIZATION.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\bin\Debug\0DemoSERIALIZATION.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\obj\Debug\0DemoSERIALIZATION.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\obj\Debug\0DemoSERIALIZATION.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\obj\Debug\0DemoSERIALIZATION.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\obj\Debug\0DemoSERIALIZATION.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\0DemoSERIALIZATION\obj\Debug\0DemoSERIALIZATION.pdb

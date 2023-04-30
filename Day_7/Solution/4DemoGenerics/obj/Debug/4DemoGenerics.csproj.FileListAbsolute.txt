@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\bin\Debug\4DemoGenerics.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\bin\Debug\4DemoGenerics.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\bin\Debug\4DemoGenerics.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\obj\Debug\4DemoGenerics.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\obj\Debug\4DemoGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\obj\Debug\4DemoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\obj\Debug\4DemoGenerics.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\4DemoGenerics\obj\Debug\4DemoGenerics.pdb

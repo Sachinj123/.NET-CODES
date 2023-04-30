@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\bin\Debug\6DemoGenericClassInheritance.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\bin\Debug\6DemoGenericClassInheritance.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\bin\Debug\6DemoGenericClassInheritance.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\obj\Debug\6DemoGenericClassInheritance.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\obj\Debug\6DemoGenericClassInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\obj\Debug\6DemoGenericClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\obj\Debug\6DemoGenericClassInheritance.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\6DemoGenericClassInheritance\obj\Debug\6DemoGenericClassInheritance.pdb

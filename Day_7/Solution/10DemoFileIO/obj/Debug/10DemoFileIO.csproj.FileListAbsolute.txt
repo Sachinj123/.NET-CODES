@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\bin\Debug\10DemoFileIO.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\bin\Debug\10DemoFileIO.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\bin\Debug\10DemoFileIO.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\obj\Debug\10DemoFileIO.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\obj\Debug\10DemoFileIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\obj\Debug\10DemoFileIO.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\obj\Debug\10DemoFileIO.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_7\Solution\10DemoFileIO\obj\Debug\10DemoFileIO.pdb

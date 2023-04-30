@@ -1,0 +1,11 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\bin\Debug\2Demo.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\bin\Debug\2Demo.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\bin\Debug\2Demo.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\bin\Debug\Maths.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\bin\Debug\Maths.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\Cosumer.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\Cosumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\Cosumer.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\Cosumer.csproj.CopyComplete
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\2Demo.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\2Demo\obj\Debug\2Demo.pdb
