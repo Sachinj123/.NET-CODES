@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\bin\Debug\FindTheGreatestNumber.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\bin\Debug\FindTheGreatestNumber.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\bin\Debug\FindTheGreatestNumber.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\obj\Debug\FindTheGreatestNumber.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\obj\Debug\FindTheGreatestNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\obj\Debug\FindTheGreatestNumber.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\obj\Debug\FindTheGreatestNumber.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindTheGreatestNumber\obj\Debug\FindTheGreatestNumber.pdb

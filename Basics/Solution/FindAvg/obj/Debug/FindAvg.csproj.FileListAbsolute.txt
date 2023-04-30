@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\bin\Debug\FindAvg.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\bin\Debug\FindAvg.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\bin\Debug\FindAvg.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\obj\Debug\FindAvg.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\obj\Debug\FindAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\obj\Debug\FindAvg.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\obj\Debug\FindAvg.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindAvg\obj\Debug\FindAvg.pdb

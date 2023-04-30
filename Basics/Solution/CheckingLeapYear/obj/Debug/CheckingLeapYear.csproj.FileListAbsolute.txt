@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\bin\Debug\CheckingLeapYear.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\bin\Debug\CheckingLeapYear.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\bin\Debug\CheckingLeapYear.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\obj\Debug\CheckingLeapYear.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\obj\Debug\CheckingLeapYear.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\obj\Debug\CheckingLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\obj\Debug\CheckingLeapYear.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\CheckingLeapYear\obj\Debug\CheckingLeapYear.pdb

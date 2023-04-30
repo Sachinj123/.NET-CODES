@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\bin\Debug\AreaOfCircle.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\bin\Debug\AreaOfCircle.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\bin\Debug\AreaOfCircle.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\obj\Debug\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\obj\Debug\AreaOfCircle.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfCircle\obj\Debug\AreaOfCircle.pdb

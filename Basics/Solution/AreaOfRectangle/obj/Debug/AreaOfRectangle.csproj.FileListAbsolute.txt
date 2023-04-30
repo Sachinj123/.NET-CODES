@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\bin\Debug\AreaOfRectangle.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\bin\Debug\AreaOfRectangle.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\obj\Debug\AreaOfRectangle.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\obj\Debug\AreaOfRectangle.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\AreaOfRectangle\obj\Debug\AreaOfRectangle.pdb

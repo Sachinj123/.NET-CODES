@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\bin\Debug\FindNumberOfYearsAndMonth.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\bin\Debug\FindNumberOfYearsAndMonth.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\bin\Debug\FindNumberOfYearsAndMonth.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\obj\Debug\FindNumberOfYearsAndMonth.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\obj\Debug\FindNumberOfYearsAndMonth.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\obj\Debug\FindNumberOfYearsAndMonth.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\obj\Debug\FindNumberOfYearsAndMonth.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FindNumberOfYearsAndMonth\obj\Debug\FindNumberOfYearsAndMonth.pdb

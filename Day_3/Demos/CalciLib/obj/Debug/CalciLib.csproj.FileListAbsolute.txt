@@ -1,0 +1,6 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\bin\Debug\CalciLib.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\bin\Debug\CalciLib.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\obj\Debug\CalciLib.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\obj\Debug\CalciLib.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\obj\Debug\CalciLib.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\CalciLib\obj\Debug\CalciLib.pdb

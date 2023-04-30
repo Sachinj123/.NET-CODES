@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\bin\Debug\SwappingTwoVariablesWithout3rdVariable.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\bin\Debug\SwappingTwoVariablesWithout3rdVariable.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\bin\Debug\SwappingTwoVariablesWithout3rdVariable.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\obj\Debug\SwappingTwoVariablesWithout3rdVariable.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\obj\Debug\SwappingTwoVariablesWithout3rdVariable.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\obj\Debug\SwappingTwoVariablesWithout3rdVariable.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\obj\Debug\SwappingTwoVariablesWithout3rdVariable.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\SwappingTwoVariablesWithout3rdVariable\obj\Debug\SwappingTwoVariablesWithout3rdVariable.pdb

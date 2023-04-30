@@ -1,0 +1,11 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\bin\Debug\3Demos.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\bin\Debug\3Demos.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\bin\Debug\3Demos.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\bin\Debug\CalciLib.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\bin\Debug\CalciLib.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_3\Demos\3Demos\obj\Debug\3Demos.csproj.CopyComplete

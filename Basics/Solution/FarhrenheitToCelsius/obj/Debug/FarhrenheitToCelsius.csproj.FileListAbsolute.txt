@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\bin\Debug\FarhrenheitToCelsius.exe.config
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\bin\Debug\FarhrenheitToCelsius.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\bin\Debug\FarhrenheitToCelsius.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\obj\Debug\FarhrenheitToCelsius.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\obj\Debug\FarhrenheitToCelsius.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\obj\Debug\FarhrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\obj\Debug\FarhrenheitToCelsius.exe
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Basics\Solution\FarhrenheitToCelsius\obj\Debug\FarhrenheitToCelsius.pdb
