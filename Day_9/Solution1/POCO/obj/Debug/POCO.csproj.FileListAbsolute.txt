@@ -1,0 +1,9 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\bin\Debug\POCO.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\bin\Debug\POCO.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\bin\Debug\MyOwnAttributes.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\bin\Debug\MyOwnAttributes.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\obj\Debug\POCO.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\obj\Debug\POCO.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\obj\Debug\POCO.csproj.CopyComplete
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\obj\Debug\POCO.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\POCO\obj\Debug\POCO.pdb

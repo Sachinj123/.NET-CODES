@@ -1,0 +1,6 @@
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\bin\Debug\Maths.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\bin\Debug\Maths.pdb
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\obj\Debug\Maths.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\obj\Debug\Maths.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\obj\Debug\Maths.dll
+C:\Users\sachin\Desktop\PGDAC\.net\Sunbeam Lectures\CODES\Day_8\Solution\Maths\obj\Debug\Maths.pdb

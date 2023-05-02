@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\bin\Debug\1DemoPartialClass.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\bin\Debug\1DemoPartialClass.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\bin\Debug\1DemoPartialClass.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\obj\Debug\1DemoPartialClass.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\obj\Debug\1DemoPartialClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\obj\Debug\1DemoPartialClass.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\obj\Debug\1DemoPartialClass.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution\1DemoPartialClass\obj\Debug\1DemoPartialClass.pdb

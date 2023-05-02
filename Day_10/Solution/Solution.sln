@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0DemoNULLABLE", "0DemoNULLABLE\0DemoNULLABLE.csproj", "{F1B73F32-4961-4B62-B45A-3A74E17FFAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1DemoAnonymousMerhod", "1DemoAnonymousMerhod\1DemoAnonymousMerhod.csproj", "{472719C2-0BFC-4E2C-8A12-CE99F26CA7E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DemoLAMBDAExpression", "2DemoLAMBDAExpression\2DemoLAMBDAExpression.csproj", "{44CE8BA2-E71B-4E50-8F5D-7A2FA8FF0207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Assignment", "Test Assignment\Test Assignment.csproj", "{389334F8-5FDD-44B2-BA24-D8027F0C67C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Demo ITERATOR", "3Demo ITERATOR\3Demo ITERATOR.csproj", "{E50EF869-6598-4B06-AD7B-B5D07EF8A0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Demo NewSyntaxForGetterandSetter", "4Demo NewSyntaxForGetterandSetter\4Demo NewSyntaxForGetterandSetter.csproj", "{D690B996-0521-4801-9660-39BFA3802286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B73F32-4961-4B62-B45A-3A74E17FFAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B73F32-4961-4B62-B45A-3A74E17FFAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B73F32-4961-4B62-B45A-3A74E17FFAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B73F32-4961-4B62-B45A-3A74E17FFAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472719C2-0BFC-4E2C-8A12-CE99F26CA7E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472719C2-0BFC-4E2C-8A12-CE99F26CA7E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472719C2-0BFC-4E2C-8A12-CE99F26CA7E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472719C2-0BFC-4E2C-8A12-CE99F26CA7E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CE8BA2-E71B-4E50-8F5D-7A2FA8FF0207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CE8BA2-E71B-4E50-8F5D-7A2FA8FF0207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CE8BA2-E71B-4E50-8F5D-7A2FA8FF0207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CE8BA2-E71B-4E50-8F5D-7A2FA8FF0207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389334F8-5FDD-44B2-BA24-D8027F0C67C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389334F8-5FDD-44B2-BA24-D8027F0C67C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389334F8-5FDD-44B2-BA24-D8027F0C67C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389334F8-5FDD-44B2-BA24-D8027F0C67C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50EF869-6598-4B06-AD7B-B5D07EF8A0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50EF869-6598-4B06-AD7B-B5D07EF8A0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50EF869-6598-4B06-AD7B-B5D07EF8A0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50EF869-6598-4B06-AD7B-B5D07EF8A0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D690B996-0521-4801-9660-39BFA3802286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D690B996-0521-4801-9660-39BFA3802286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D690B996-0521-4801-9660-39BFA3802286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D690B996-0521-4801-9660-39BFA3802286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184F9D96-84B6-4AE2-9ABB-CC71BC1E4E1D}
+	EndGlobalSection
+EndGlobal

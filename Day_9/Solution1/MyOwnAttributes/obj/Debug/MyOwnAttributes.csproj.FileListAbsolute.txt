@@ -1,0 +1,6 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\bin\Debug\MyOwnAttributes.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\bin\Debug\MyOwnAttributes.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\obj\Debug\MyOwnAttributes.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\obj\Debug\MyOwnAttributes.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\obj\Debug\MyOwnAttributes.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_9\Solution1\MyOwnAttributes\obj\Debug\MyOwnAttributes.pdb

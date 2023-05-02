@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\bin\Debug\1DemoAnonymousMerhod.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\bin\Debug\1DemoAnonymousMerhod.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\bin\Debug\1DemoAnonymousMerhod.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\obj\Debug\1DemoAnonymousMerhod.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\obj\Debug\1DemoAnonymousMerhod.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\obj\Debug\1DemoAnonymousMerhod.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\obj\Debug\1DemoAnonymousMerhod.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_10\Solution\1DemoAnonymousMerhod\obj\Debug\1DemoAnonymousMerhod.pdb
