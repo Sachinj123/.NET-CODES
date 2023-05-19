@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\bin\Debug\4Demo_Disconnected_Architecture.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\bin\Debug\4Demo_Disconnected_Architecture.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\bin\Debug\4Demo_Disconnected_Architecture.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\obj\Debug\4Demo_Disconnected_Architecture.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\obj\Debug\4Demo_Disconnected_Architecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\obj\Debug\4Demo_Disconnected_Architecture.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\obj\Debug\4Demo_Disconnected_Architecture.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\4Demo_Disconnected_Architecture\obj\Debug\4Demo_Disconnected_Architecture.pdb

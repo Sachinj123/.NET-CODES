@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CDAC_DBModelStoreContainer" CdmEntityContainer="CDAC_DBEntities">
+    <EntitySetMapping Name="Emps">
+      <EntityTypeMapping TypeName="CDAC_DBModel.Emp">
+        <MappingFragment StoreEntitySet="Emp">
+          <ScalarProperty Name="No" ColumnName="No" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spInsert" FunctionName="CDAC_DBModel.Store.spInsert" />
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="CDAC_DBModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="CId" ColumnName="CId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

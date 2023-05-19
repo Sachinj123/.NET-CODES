@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\bin\Debug\4Demo.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\bin\Debug\4Demo.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\bin\Debug\4Demo.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\obj\Debug\4Demo.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\obj\Debug\4Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\obj\Debug\4Demo.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\obj\Debug\4Demo.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\4Demo\obj\Debug\4Demo.pdb

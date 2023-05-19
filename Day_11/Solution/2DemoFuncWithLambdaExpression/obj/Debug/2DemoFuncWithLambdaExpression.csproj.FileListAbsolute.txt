@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\bin\Debug\2DemoFuncWithLambdaExpression.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\bin\Debug\2DemoFuncWithLambdaExpression.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\bin\Debug\2DemoFuncWithLambdaExpression.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\obj\Debug\2DemoFuncWithLambdaExpression.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\obj\Debug\2DemoFuncWithLambdaExpression.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\obj\Debug\2DemoFuncWithLambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\obj\Debug\2DemoFuncWithLambdaExpression.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\2DemoFuncWithLambdaExpression\obj\Debug\2DemoFuncWithLambdaExpression.pdb

@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\bin\Debug\0DemoLinqStarted.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\bin\Debug\0DemoLinqStarted.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\bin\Debug\0DemoLinqStarted.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\obj\Debug\0DemoLinqStarted.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\obj\Debug\0DemoLinqStarted.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\obj\Debug\0DemoLinqStarted.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\obj\Debug\0DemoLinqStarted.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\0DemoLinqStarted\obj\Debug\0DemoLinqStarted.pdb

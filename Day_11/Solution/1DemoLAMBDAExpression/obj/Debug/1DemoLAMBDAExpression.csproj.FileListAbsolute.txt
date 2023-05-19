@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\bin\Debug\1DemoLAMBDAExpression.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\bin\Debug\1DemoLAMBDAExpression.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\bin\Debug\1DemoLAMBDAExpression.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\obj\Debug\1DemoLAMBDAExpression.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\obj\Debug\1DemoLAMBDAExpression.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\obj\Debug\1DemoLAMBDAExpression.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\obj\Debug\1DemoLAMBDAExpression.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_11\Solution\1DemoLAMBDAExpression\obj\Debug\1DemoLAMBDAExpression.pdb

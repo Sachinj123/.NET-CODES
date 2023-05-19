@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\bin\Debug\5Demo_Data_AdapterUSE.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\bin\Debug\5Demo_Data_AdapterUSE.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\bin\Debug\5Demo_Data_AdapterUSE.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\obj\Debug\5Demo_Data_AdapterUSE.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\obj\Debug\5Demo_Data_AdapterUSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\obj\Debug\5Demo_Data_AdapterUSE.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\obj\Debug\5Demo_Data_AdapterUSE.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\5Demo_Data_AdapterUSE\obj\Debug\5Demo_Data_AdapterUSE.pdb

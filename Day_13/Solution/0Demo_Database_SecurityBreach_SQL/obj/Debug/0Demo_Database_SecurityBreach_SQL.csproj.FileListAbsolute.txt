@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\bin\Debug\0Demo_Database_SecurityBreach_SQL.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\bin\Debug\0Demo_Database_SecurityBreach_SQL.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\bin\Debug\0Demo_Database_SecurityBreach_SQL.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\obj\Debug\0Demo_Database_SecurityBreach_SQL.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\obj\Debug\0Demo_Database_SecurityBreach_SQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\obj\Debug\0Demo_Database_SecurityBreach_SQL.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\obj\Debug\0Demo_Database_SecurityBreach_SQL.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\0Demo_Database_SecurityBreach_SQL\obj\Debug\0Demo_Database_SecurityBreach_SQL.pdb

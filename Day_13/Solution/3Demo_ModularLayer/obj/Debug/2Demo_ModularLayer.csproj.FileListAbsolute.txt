@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\bin\Debug\3Demo_ModularLayer.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\bin\Debug\3Demo_ModularLayer.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\bin\Debug\3Demo_ModularLayer.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\obj\Debug\2Demo_ModularLayer.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\obj\Debug\2Demo_ModularLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\obj\Debug\2Demo_ModularLayer.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\obj\Debug\3Demo_ModularLayer.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_13\Solution\3Demo_ModularLayer\obj\Debug\3Demo_ModularLayer.pdb

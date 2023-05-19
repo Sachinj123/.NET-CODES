@@ -1,0 +1,11 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\bin\Debug\0Demo_ENTITY_FRAMEWORK.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\bin\Debug\0Demo_ENTITY_FRAMEWORK.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\bin\Debug\0Demo_ENTITY_FRAMEWORK.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\bin\Debug\EntityFramework.dll
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\bin\Debug\EntityFramework.xml
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.csproj.CopyComplete
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_14\Solution\0Demo_ENTITY_FRAMEWORK\obj\Debug\0Demo_ENTITY_FRAMEWORK.pdb

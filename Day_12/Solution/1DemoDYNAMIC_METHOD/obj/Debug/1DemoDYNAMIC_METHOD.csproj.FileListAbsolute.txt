@@ -1,0 +1,8 @@
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\bin\Debug\1DemoDYNAMIC_METHOD.exe.config
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\bin\Debug\1DemoDYNAMIC_METHOD.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\bin\Debug\1DemoDYNAMIC_METHOD.pdb
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\obj\Debug\1DemoDYNAMIC_METHOD.csproj.AssemblyReference.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\obj\Debug\1DemoDYNAMIC_METHOD.csproj.SuggestedBindingRedirects.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\obj\Debug\1DemoDYNAMIC_METHOD.csproj.CoreCompileInputs.cache
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\obj\Debug\1DemoDYNAMIC_METHOD.exe
+C:\Users\sachin\Desktop\PGDAC\.NET\Sunbeam Lectures\CODES\Day_12\Solution\1DemoDYNAMIC_METHOD\obj\Debug\1DemoDYNAMIC_METHOD.pdb
